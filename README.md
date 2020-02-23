@@ -14,3 +14,7 @@ Scala 프로젝트 생성 문제 발생
 ## 2020-02-18
 Mac에 scala 설치(home brew)
 home brew를 이용하여 mac에 scala 설치 방법 포스팅
+
+## 2020-02-23
+java 클래스/인스턴스/객체 업로드
+생활코딩 참고 https://opentutorials.org/course/1223/5400
