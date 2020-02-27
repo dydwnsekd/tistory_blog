@@ -20,3 +20,6 @@ java 클래스/인스턴스/객체 업로드
 https://dydwnsekd.tistory.com/22
 
 생활코딩 참고 https://opentutorials.org/course/1223/5400
+
+## 2020-02-27
+클래스 멤버와 인스턴스 멤버 내용 정리중
