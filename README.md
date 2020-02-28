@@ -20,3 +20,7 @@ java 클래스/인스턴스/객체 업로드
 https://dydwnsekd.tistory.com/22
 
 생활코딩 참고 https://opentutorials.org/course/1223/5400
+
+## 2020-02-28
+java 클래스 멤버와 인스턴스 멤버 초안 작성 29일 업로드 예정
+생활코딩 참고 https://opentutorials.org/course/1223/5440
