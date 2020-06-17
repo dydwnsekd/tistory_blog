@@ -35,3 +35,7 @@ https://dydwnsekd.tistory.com/23
 ## 2020-03-31
 Nifi에서 Hive3 연결하기 업로드
 https://dydwnsekd.tistory.com/24
+
+## 2020-06-17
+Windows에 OpenJDK 설치하기 업로드
+https://dydwnsekd.tistory.com/25
