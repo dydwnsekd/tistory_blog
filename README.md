@@ -41,4 +41,5 @@ Windows에 OpenJDK 설치하기 업로드
 https://dydwnsekd.tistory.com/25
 
 ## 2020-06-24
-빅데이터 정의 포스팅 작성중 마지막 정리 필요
+빅데이터 정의 업로드
+https://dydwnsekd.tistory.com/26
