@@ -43,3 +43,7 @@ https://dydwnsekd.tistory.com/25
 ## 2020-06-24
 빅데이터 정의 업로드
 https://dydwnsekd.tistory.com/26
+
+## 2020-12-01
+Airflow란 업로드
+https://dydwnsekd.tistory.com/27
