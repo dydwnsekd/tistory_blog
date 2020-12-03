@@ -47,3 +47,7 @@ https://dydwnsekd.tistory.com/26
 ## 2020-12-01
 Airflow란 업로드
 https://dydwnsekd.tistory.com/27
+
+## 2020-12-03
+Airflow 구성 업로드
+https://dydwnsekd.tistory.com/28
