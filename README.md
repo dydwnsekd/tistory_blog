@@ -51,3 +51,7 @@ https://dydwnsekd.tistory.com/27
 ## 2020-12-03
 Airflow 구성 업로드
 https://dydwnsekd.tistory.com/28
+
+## 2020-12-18
+빅데이터 처리 과정 업로드
+https://dydwnsekd.tistory.com/29
