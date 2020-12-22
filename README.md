@@ -55,3 +55,7 @@ https://dydwnsekd.tistory.com/28
 ## 2020-12-18
 빅데이터 처리 과정 업로드
 https://dydwnsekd.tistory.com/29
+
+## 2020-12-22
+Ambari-Airflow 연동하기 업로드
+https://dydwnsekd.tistory.com/30
