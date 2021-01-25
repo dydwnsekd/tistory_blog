@@ -61,5 +61,5 @@ Ambari-Airflow 연동하기 업로드
 https://dydwnsekd.tistory.com/30
 
 ## 2021-01-25
-Windows Docker WSL Version 문제 업로드
+Windows WSL Version up 및 초기화
 https://dydwnsekd.tistory.com/31
