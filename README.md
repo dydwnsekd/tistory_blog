@@ -63,3 +63,7 @@ https://dydwnsekd.tistory.com/30
 ## 2021-01-25
 Windows WSL Version up 및 초기화
 https://dydwnsekd.tistory.com/31
+
+## 2021-01-26
+Airflow 2.0 설치하기
+https://dydwnsekd.tistory.com/32
