@@ -46,6 +46,7 @@ https://dydwnsekd.tistory.com/26
 
 ## 2020-12-01
 Airflow란 업로드
+2021-01-30 내용 수정 Architecture / UI등 이미지 및 설명 일부 수정
 https://dydwnsekd.tistory.com/27
 
 ## 2020-12-03
