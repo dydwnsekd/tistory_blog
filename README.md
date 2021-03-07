@@ -72,3 +72,7 @@ https://dydwnsekd.tistory.com/32
 ## 2021-01-29
 Airflow 2.0 설치하기(2)
 https://dydwnsekd.tistory.com/33
+
+## 2021-03-07
+HBase 튜닝하기
+https://dydwnsekd.tistory.com/34
