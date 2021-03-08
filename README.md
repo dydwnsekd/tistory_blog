@@ -76,3 +76,7 @@ https://dydwnsekd.tistory.com/33
 ## 2021-03-07
 HBase 튜닝하기
 https://dydwnsekd.tistory.com/34
+
+## 2021-03-08
+Ambari HDFS component 재시작 관련 이슈 해결(hadoop_lzo)
+https://dydwnsekd.tistory.com/35
