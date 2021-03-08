@@ -80,3 +80,7 @@ https://dydwnsekd.tistory.com/34
 ## 2021-03-08
 Ambari HDFS component 재시작 관련 이슈 해결(hadoop_lzo)
 https://dydwnsekd.tistory.com/35
+
+## 2021-03-09
+Resource Manager Active Standby 전환 이슈
+https://dydwnsekd.tistory.com/36
