@@ -84,3 +84,7 @@ https://dydwnsekd.tistory.com/35
 ## 2021-03-09
 Resource Manager Active Standby 전환 이슈
 https://dydwnsekd.tistory.com/36
+
+## 2021-03-10
+HBase tools를 이용한 HBase balancing
+https://dydwnsekd.tistory.com/37
