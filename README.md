@@ -88,3 +88,7 @@ https://dydwnsekd.tistory.com/36
 ## 2021-03-10
 HBase tools를 이용한 HBase balancing
 https://dydwnsekd.tistory.com/37
+
+## 2021-03-13
+HDP 인증 이슈
+https://dydwnsekd.tistory.com/38
