@@ -92,3 +92,7 @@ https://dydwnsekd.tistory.com/37
 ## 2021-03-13
 HDP 인증 이슈 에러 메세지와 함께 수정 업로드
 https://dydwnsekd.tistory.com/38
+
+## 2021-03-21
+Airflow 2.0 설치하기(3)
+https://dydwnsekd.tistory.com/39
