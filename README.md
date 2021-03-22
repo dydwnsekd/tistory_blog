@@ -96,3 +96,7 @@ https://dydwnsekd.tistory.com/38
 ## 2021-03-21
 Airflow 2.0 설치하기(3)
 https://dydwnsekd.tistory.com/39
+
+## 2021-03-22
+HDP(Ambari) Node Groups
+https://dydwnsekd.tistory.com/40
