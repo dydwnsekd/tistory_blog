@@ -100,3 +100,7 @@ https://dydwnsekd.tistory.com/39
 ## 2021-03-22
 HDP(Ambari) Node Groups
 https://dydwnsekd.tistory.com/40
+
+## 2021-03-29
+Scala String, char to int
+https://dydwnsekd.tistory.com/41
