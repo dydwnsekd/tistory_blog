@@ -108,3 +108,7 @@ https://dydwnsekd.tistory.com/41
 ## 2021-04-03
 Airflow2.x providers 설치하기
 https://dydwnsekd.tistory.com/42
+
+## 2021-04-05
+HDP 3.1.4 Hive LLAP Start error(UnicodeDecodeError)
+https://dydwnsekd.tistory.com/43
