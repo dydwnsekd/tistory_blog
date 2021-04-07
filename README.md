@@ -112,3 +112,7 @@ https://dydwnsekd.tistory.com/42
 ## 2021-04-05
 HDP 3.1.4 Hive LLAP Start error(UnicodeDecodeError)
 https://dydwnsekd.tistory.com/43
+
+## 2021-04-07
+Hive 테이블 복사하기
+https://dydwnsekd.tistory.com/44
