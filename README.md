@@ -116,3 +116,7 @@ https://dydwnsekd.tistory.com/43
 ## 2021-04-07
 Hive 테이블 복사하기
 https://dydwnsekd.tistory.com/44
+
+## 2021-04-08
+Hadoop2 NameNode HA QJM(Quorum Journal Manager)
+https://dydwnsekd.tistory.com/44
