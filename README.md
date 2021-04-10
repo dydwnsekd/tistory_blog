@@ -120,3 +120,7 @@ https://dydwnsekd.tistory.com/44
 ## 2021-04-08
 Hadoop2 NameNode HA QJM(Quorum Journal Manager)
 https://dydwnsekd.tistory.com/44
+
+## 2021-04-10
+Hadoop ZKFC(Zookeeper Failover Controller)
+https://dydwnsekd.tistory.com/46
