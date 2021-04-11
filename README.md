@@ -124,3 +124,7 @@ https://dydwnsekd.tistory.com/44
 ## 2021-04-10
 Hadoop ZKFC(Zookeeper Failover Controller)
 https://dydwnsekd.tistory.com/46
+
+## 2021-04-11
+Hadoop namenode.FSEditLog Error
+https://dydwnsekd.tistory.com/47
