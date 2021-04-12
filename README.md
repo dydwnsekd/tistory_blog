@@ -128,3 +128,7 @@ https://dydwnsekd.tistory.com/46
 ## 2021-04-11
 Hadoop namenode.FSEditLog Error
 https://dydwnsekd.tistory.com/47
+
+## 2021-04-12
+Hadoop3 변경점
+https://dydwnsekd.tistory.com/48
