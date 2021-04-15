@@ -132,3 +132,7 @@ https://dydwnsekd.tistory.com/47
 ## 2021-04-12
 Hadoop3 변경점
 https://dydwnsekd.tistory.com/48
+
+## 2021-04-15	
+Apache Hadoop 관련 폐기 프로젝트(2021.04)
+https://dydwnsekd.tistory.com/49
