@@ -136,3 +136,7 @@ https://dydwnsekd.tistory.com/48
 ## 2021-04-15	
 Apache Hadoop 관련 폐기 프로젝트(2021.04)
 https://dydwnsekd.tistory.com/49
+
+## 2021-04-19
+YARN 스케줄링
+https://dydwnsekd.tistory.com/19
