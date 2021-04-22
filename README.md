@@ -140,3 +140,7 @@ https://dydwnsekd.tistory.com/49
 ## 2021-04-19
 YARN 스케줄링
 https://dydwnsekd.tistory.com/19
+
+## 2021-04-22
+pyHive Hive LDAP SASL error
+https://dydwnsekd.tistory.com/50
