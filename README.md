@@ -144,3 +144,7 @@ https://dydwnsekd.tistory.com/19
 ## 2021-04-22
 pyHive Hive LDAP SASL error
 https://dydwnsekd.tistory.com/50
+
+## 2021-04-23
+Airflow HiveServer2Hook LDAP 연결
+https://dydwnsekd.tistory.com/51
