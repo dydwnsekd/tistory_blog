@@ -148,3 +148,7 @@ https://dydwnsekd.tistory.com/50
 ## 2021-04-23
 Airflow HiveServer2Hook LDAP 연결
 https://dydwnsekd.tistory.com/51
+
+## 2021-04-27
+Airflow HiveOperator LDAP 연결
+https://dydwnsekd.tistory.com/52
