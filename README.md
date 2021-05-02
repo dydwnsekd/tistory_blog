@@ -152,3 +152,7 @@ https://dydwnsekd.tistory.com/51
 ## 2021-04-27
 Airflow HiveOperator LDAP 연결
 https://dydwnsekd.tistory.com/52
+
+## 2021-05-02
+Docker을 이용한 Kafka 시작하기
+https://dydwnsekd.tistory.com/53
