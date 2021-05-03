@@ -156,3 +156,7 @@ https://dydwnsekd.tistory.com/52
 ## 2021-05-02
 Docker을 이용한 Kafka 시작하기
 https://dydwnsekd.tistory.com/53
+
+## 2021-05-03
+Airflow 2.0 설치하기(4)
+https://dydwnsekd.tistory.com/54
