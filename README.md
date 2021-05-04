@@ -160,3 +160,8 @@ https://dydwnsekd.tistory.com/53
 ## 2021-05-03
 Airflow 2.0 설치하기(4)
 https://dydwnsekd.tistory.com/54
+
+## 2021-05-04
+Airflow 용어 및 기본 개념
+글 제목 / 내용 변경 및 Connection, Hook 설명 추가
+https://dydwnsekd.tistory.com/28
