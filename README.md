@@ -165,3 +165,7 @@ https://dydwnsekd.tistory.com/54
 Airflow 용어 및 기본 개념
 글 제목 / 내용 변경 및 Connection, Hook 설명 추가
 https://dydwnsekd.tistory.com/28
+
+## 2021-05-08
+Kudu란?
+https://dydwnsekd.tistory.com/55
