@@ -174,7 +174,11 @@ https://dydwnsekd.tistory.com/55
 Docker를 이용한 Airflow 2.0.2 실행하기(1)
 https://dydwnsekd.tistory.com/56
 
-
 ## 2021-05-14
 WAL(Write-ahead logging)란 ?
 https://dydwnsekd.tistory.com/57
+
+## 2021-05-15
+HBase 데이터 쓰기/읽기 과정
+https://dydwnsekd.tistory.com/58
+
