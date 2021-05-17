@@ -182,3 +182,6 @@ https://dydwnsekd.tistory.com/57
 HBase 데이터 쓰기/읽기 과정
 https://dydwnsekd.tistory.com/58
 
+## 2021-05-17
+CentOS 7 serviced 등록 및 실행
+https://dydwnsekd.tistory.com/60
