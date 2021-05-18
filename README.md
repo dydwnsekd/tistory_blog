@@ -185,3 +185,7 @@ https://dydwnsekd.tistory.com/58
 ## 2021-05-17
 CentOS 7 serviced 등록 및 실행
 https://dydwnsekd.tistory.com/60
+
+## 2021-05-18
+sqoop이란 ?
+https://dydwnsekd.tistory.com/61
