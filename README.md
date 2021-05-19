@@ -189,3 +189,7 @@ https://dydwnsekd.tistory.com/60
 ## 2021-05-18
 sqoop이란 ?
 https://dydwnsekd.tistory.com/61
+
+## 2021-05-19
+Airflow Jinja template 사용하기
+https://dydwnsekd.tistory.com/62
