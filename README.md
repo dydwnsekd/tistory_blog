@@ -195,5 +195,5 @@ Airflow Jinja template 사용하기
 https://dydwnsekd.tistory.com/62
 
 ## 2021-05-20
-Hadoop MapReduce 동작방식
+Hadoop MapReduce 기본 동작방식
 https://dydwnsekd.tistory.com/63
