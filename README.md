@@ -205,3 +205,7 @@ https://dydwnsekd.tistory.com/64
 ## 2021-05-27
 Airflow Variables  
 https://dydwnsekd.tistory.com/65
+
+## 2021-05-28
+Kafka 보관 주기 설정하기
+https://dydwnsekd.tistory.com/66
