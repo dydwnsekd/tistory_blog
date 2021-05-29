@@ -209,3 +209,7 @@ https://dydwnsekd.tistory.com/65
 ## 2021-05-28
 Kafka 보관 주기 설정하기  
 https://dydwnsekd.tistory.com/66
+
+## 2021-05-29
+Kafka ISR(In-Sync-Replicas)  
+https://dydwnsekd.tistory.com/67  
