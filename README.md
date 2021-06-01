@@ -213,3 +213,7 @@ https://dydwnsekd.tistory.com/66
 ## 2021-05-29
 Kafka ISR(In-Sync-Replicas)  
 https://dydwnsekd.tistory.com/67  
+
+## 2021-06-01
+Kafka scale out  
+https://dydwnsekd.tistory.com/68  
