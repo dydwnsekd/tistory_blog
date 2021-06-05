@@ -221,3 +221,7 @@ https://dydwnsekd.tistory.com/68
 ## 2021-06-03
 Airflow TeamsWebHook 사용하기  
 https://dydwnsekd.tistory.com/69
+
+## 2021-06-05
+Kafka-manager을 이용한 Partition reassign  
+https://dydwnsekd.tistory.com/70
