@@ -225,3 +225,7 @@ https://dydwnsekd.tistory.com/69
 ## 2021-06-05
 Kafka-manager을 이용한 Partition reassign  
 https://dydwnsekd.tistory.com/70
+
+## 2021-06-08
+Kafka Acks  
+https://dydwnsekd.tistory.com/71
