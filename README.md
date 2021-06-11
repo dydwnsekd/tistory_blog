@@ -229,3 +229,7 @@ https://dydwnsekd.tistory.com/70
 ## 2021-06-08
 Kafka Acks  
 https://dydwnsekd.tistory.com/71
+
+## 2021-06-11
+Hadoop 데이터 직렬화와 RPC(Remote Procedure Call)  
+https://dydwnsekd.tistory.com/72
