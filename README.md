@@ -233,3 +233,7 @@ https://dydwnsekd.tistory.com/71
 ## 2021-06-11
 Hadoop 데이터 직렬화와 RPC(Remote Procedure Call)  
 https://dydwnsekd.tistory.com/72
+
+## 2021-06-13
+python list 특정 index 값으로 정렬하기  
+https://dydwnsekd.tistory.com/73
