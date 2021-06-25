@@ -251,3 +251,7 @@ https://dydwnsekd.tistory.com/76
 ## 2021-06-23
 HBase Compaction  
 https://dydwnsekd.tistory.com/74
+
+## 2021-06-25
+Yarn NodeManager BindException(Close_wait)  
+https://dydwnsekd.tistory.com/77
