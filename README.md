@@ -255,3 +255,7 @@ https://dydwnsekd.tistory.com/74
 ## 2021-06-25
 Yarn NodeManager BindException(Close_wait)  
 https://dydwnsekd.tistory.com/77
+
+## 2021-06-27
+Hadoop Kerberos 인증과정  
+https://dydwnsekd.tistory.com/78
