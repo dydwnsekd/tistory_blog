@@ -259,3 +259,7 @@ https://dydwnsekd.tistory.com/77
 ## 2021-06-27
 Hadoop Kerberos 인증과정  
 https://dydwnsekd.tistory.com/78
+
+## 2021-06-28
+Kafka consumer와 commit  
+https://dydwnsekd.tistory.com/80
