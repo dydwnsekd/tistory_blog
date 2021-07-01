@@ -263,3 +263,7 @@ https://dydwnsekd.tistory.com/78
 ## 2021-06-28
 Kafka consumer와 commit  
 https://dydwnsekd.tistory.com/80
+
+## 2021-07-01
+HBase Thrift Server SocketTimeOut  
+https://dydwnsekd.tistory.com/81
