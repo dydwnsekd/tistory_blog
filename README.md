@@ -267,3 +267,7 @@ https://dydwnsekd.tistory.com/80
 ## 2021-07-01
 HBase Thrift Server SocketTimeOut  
 https://dydwnsekd.tistory.com/81
+
+## 2021-07-04
+shell script 실행인자 값 사용하기  
+https://dydwnsekd.tistory.com/82
