@@ -271,3 +271,7 @@ https://dydwnsekd.tistory.com/81
 ## 2021-07-04
 shell script 실행인자 값 사용하기  
 https://dydwnsekd.tistory.com/82
+
+## 2021-07-11
+kafka 멱등성 producer  
+https://dydwnsekd.tistory.com/83
