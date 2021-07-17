@@ -275,3 +275,7 @@ https://dydwnsekd.tistory.com/82
 ## 2021-07-11
 kafka 멱등성 producer  
 https://dydwnsekd.tistory.com/83
+
+## 2021-07-17
+jvm이란?  
+https://dydwnsekd.tistory.com/84
