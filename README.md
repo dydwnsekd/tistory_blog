@@ -277,5 +277,9 @@ kafka 멱등성 producer
 https://dydwnsekd.tistory.com/83
 
 ## 2021-07-17
-jvm이란?  
+JVM이란?  
 https://dydwnsekd.tistory.com/84
+
+## 2021-07-18
+FQCN (Full Qualified Class Name)  
+https://dydwnsekd.tistory.com/85
