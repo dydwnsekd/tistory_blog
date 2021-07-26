@@ -283,3 +283,7 @@ https://dydwnsekd.tistory.com/84
 ## 2021-07-18
 FQCN (Full Qualified Class Name)  
 https://dydwnsekd.tistory.com/85
+
+## 2021-07-26
+Namenode fsimage, edits log  
+https://dydwnsekd.tistory.com/86
