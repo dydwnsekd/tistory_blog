@@ -287,3 +287,7 @@ https://dydwnsekd.tistory.com/85
 ## 2021-07-26
 Namenode fsimage, edits log  
 https://dydwnsekd.tistory.com/86
+
+## 2021-07-28
+Namenode safe mode  
+https://dydwnsekd.tistory.com/87
