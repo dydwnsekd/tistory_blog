@@ -291,3 +291,7 @@ https://dydwnsekd.tistory.com/86
 ## 2021-07-28
 Namenode safe mode  
 https://dydwnsekd.tistory.com/87
+
+## 2021-08-01
+LDAP(Lightweight Directory Access Protocol)이란?  
+https://dydwnsekd.tistory.com/88
