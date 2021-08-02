@@ -295,3 +295,7 @@ https://dydwnsekd.tistory.com/87
 ## 2021-08-01
 LDAP(Lightweight Directory Access Protocol)이란?  
 https://dydwnsekd.tistory.com/88
+
+## 2021-08-02
+Hive managed table과 external table  
+https://dydwnsekd.tistory.com/89
