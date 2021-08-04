@@ -299,3 +299,7 @@ https://dydwnsekd.tistory.com/88
 ## 2021-08-02
 Hive managed table과 external table  
 https://dydwnsekd.tistory.com/89
+
+## 2021-08-04
+windows에 python 설치  
+https://dydwnsekd.tistory.com/90
