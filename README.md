@@ -303,3 +303,7 @@ https://dydwnsekd.tistory.com/89
 ## 2021-08-04
 windows에 python 설치  
 https://dydwnsekd.tistory.com/90
+
+## 2021-08-05
+windows에 jupyter설치하기  
+https://dydwnsekd.tistory.com/91
