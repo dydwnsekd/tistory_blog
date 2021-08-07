@@ -307,3 +307,7 @@ https://dydwnsekd.tistory.com/90
 ## 2021-08-05
 windows에 jupyter설치하기  
 https://dydwnsekd.tistory.com/91
+
+## 2021-08-07
+python datetime <-> 문자열 변경하기  
+https://dydwnsekd.tistory.com/92
