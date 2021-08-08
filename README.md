@@ -311,3 +311,7 @@ https://dydwnsekd.tistory.com/91
 ## 2021-08-07
 python datetime <-> 문자열 변경하기  
 https://dydwnsekd.tistory.com/92
+
+## 2021-08-08
+OLTP과 OLAP  
+https://dydwnsekd.tistory.com/93
