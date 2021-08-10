@@ -315,3 +315,7 @@ https://dydwnsekd.tistory.com/92
 ## 2021-08-08
 OLTP과 OLAP  
 https://dydwnsekd.tistory.com/93
+
+## 2021-08-10
+정규표현식(Regex)이란?  
+https://dydwnsekd.tistory.com/94
