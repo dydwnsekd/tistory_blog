@@ -318,4 +318,5 @@ https://dydwnsekd.tistory.com/93
 
 ## 2021-08-10
 정규표현식(Regex)이란?  
+2021-08-13 \b, \B, \w, \W, \s, \S 내용 추가  
 https://dydwnsekd.tistory.com/94
