@@ -320,3 +320,7 @@ https://dydwnsekd.tistory.com/93
 정규표현식(Regex)이란?  
 2021-08-13 \b, \B, \w, \W, \s, \S 내용 추가  
 https://dydwnsekd.tistory.com/94
+
+## 2021-08-15
+python 정규표현식 사용하기(1)  
+https://dydwnsekd.tistory.com/95
