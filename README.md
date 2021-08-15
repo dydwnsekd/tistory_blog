@@ -324,3 +324,7 @@ https://dydwnsekd.tistory.com/94
 ## 2021-08-15
 python 정규표현식 사용하기(1)  
 https://dydwnsekd.tistory.com/95
+
+## 2021-08-16
+python 정규표현식 사용하기(2)  
+https://dydwnsekd.tistory.com/96
