@@ -332,3 +332,7 @@ https://dydwnsekd.tistory.com/96
 ## 2021-08-18
 Combiner 함수  
 https://dydwnsekd.tistory.com/97
+
+## 2021-08-20
+Airflow Local Executor와 Celery Executor  
+https://dydwnsekd.tistory.com/98
