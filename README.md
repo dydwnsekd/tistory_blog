@@ -336,3 +336,7 @@ https://dydwnsekd.tistory.com/97
 ## 2021-08-20
 Airflow Local Executor와 Celery Executor  
 https://dydwnsekd.tistory.com/98
+
+## 2021-08-23
+람다 아키텍처(lambda-architecture)란?  
+https://dydwnsekd.tistory.com/100
