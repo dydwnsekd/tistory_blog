@@ -340,3 +340,7 @@ https://dydwnsekd.tistory.com/98
 ## 2021-08-23
 람다 아키텍처(lambda-architecture)란?  
 https://dydwnsekd.tistory.com/100
+
+## 2021-08-26
+python Namedtuple 사용하기  
+https://dydwnsekd.tistory.com/101
