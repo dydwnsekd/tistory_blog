@@ -344,3 +344,7 @@ https://dydwnsekd.tistory.com/100
 ## 2021-08-26
 python Namedtuple 사용하기  
 https://dydwnsekd.tistory.com/101
+
+## 2021-08-31
+GC(Garbage Collection)란?  
+https://dydwnsekd.tistory.com/102
