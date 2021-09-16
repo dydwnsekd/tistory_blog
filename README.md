@@ -356,3 +356,7 @@ https://dydwnsekd.tistory.com/103
 ## 2021-09-11
 Slack App 만들어 메세지 보내기  
 https://dydwnsekd.tistory.com/104
+
+## 20212-09-16
+Airflow SlackOperator 사용하기  
+https://dydwnsekd.tistory.com/105
