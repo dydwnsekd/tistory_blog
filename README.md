@@ -364,3 +364,7 @@ https://dydwnsekd.tistory.com/105
 ## 2021-09-19
 Airflow Example DAG 제거하기  
 https://dydwnsekd.tistory.com/106
+
+## 2021-09-24
+Airflow Xcom 사용하기  
+https://dydwnsekd.tistory.com/107
