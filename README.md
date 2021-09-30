@@ -368,3 +368,7 @@ https://dydwnsekd.tistory.com/106
 ## 2021-09-24
 Airflow Xcom 사용하기  
 https://dydwnsekd.tistory.com/107
+
+## 2021-09-30
+Airflow execution_date 이해하기  
+https://dydwnsekd.tistory.com/108
