@@ -372,3 +372,7 @@ https://dydwnsekd.tistory.com/107
 ## 2021-09-30
 Airflow execution_date 이해하기  
 https://dydwnsekd.tistory.com/108
+
+## 2022-07-28
+Python list 조합 구하기  
+https://dydwnsekd.tistory.com/109
